@@ -1,0 +1,7 @@
+E:\Овчарук Дарья 115 группа\One-dimensional_arrays_Ex2\One-dimensional_arrays_Ex2\bin\Debug\One-dimensional_arrays_Ex2.exe.config
+E:\Овчарук Дарья 115 группа\One-dimensional_arrays_Ex2\One-dimensional_arrays_Ex2\bin\Debug\One-dimensional_arrays_Ex2.exe
+E:\Овчарук Дарья 115 группа\One-dimensional_arrays_Ex2\One-dimensional_arrays_Ex2\bin\Debug\One-dimensional_arrays_Ex2.pdb
+E:\Овчарук Дарья 115 группа\One-dimensional_arrays_Ex2\One-dimensional_arrays_Ex2\obj\Debug\One-dimensional_arrays_Ex2.csproj.AssemblyReference.cache
+E:\Овчарук Дарья 115 группа\One-dimensional_arrays_Ex2\One-dimensional_arrays_Ex2\obj\Debug\One-dimensional_arrays_Ex2.csproj.CoreCompileInputs.cache
+E:\Овчарук Дарья 115 группа\One-dimensional_arrays_Ex2\One-dimensional_arrays_Ex2\obj\Debug\One-dimensional_arrays_Ex2.exe
+E:\Овчарук Дарья 115 группа\One-dimensional_arrays_Ex2\One-dimensional_arrays_Ex2\obj\Debug\One-dimensional_arrays_Ex2.pdb
